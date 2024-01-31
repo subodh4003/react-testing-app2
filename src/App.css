@@ -1,0 +1,23 @@
+.App{text-align:center}.App-logo{height:40vmin;pointer-events:none}@media (prefers-reduced-motion:no-preference){.App-logo{animation:20s linear infinite App-logo-spin}}.App-header{background-color:#282c34;min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;font-size:calc(10px + 2vmin);color:#fff}.App-link{color:#61dafb}@keyframes App-logo-spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}footer{background-color:#000;color:#fff;padding:25px}footer.container-fluid.text-center.bgcolorfooter{bottom:0;width:100%}.footerlogo{width:10%}.bgbanner{padding-right:0;padding-left:0}.bodypd{padding-bottom:0}
+.clrtxt {
+  color: blue;
+}
+@media only screen and (min-device-width:320px) and (max-device-width:768px){.footerlogo{width:30%!important;height:auto}footer.container-fluid.text-center.bgcolorfooter{position:fixed;bottom:0;width:100%}}nav.navbar.navbar-expand-lg.bg-body-tertiary{height:50px!important}.cntimg{padding:0}.cntimg1{width:100%}.btn.btn-primary.ml-2{margin-left:10px!important}@media only screen and (max-width:768px){.btn.btn-primary.ml-2,.m{margin-top:10px!important;margin-left:10px}div#navbarSupportedContent{align-content:center!important;text-align:center;font-weight:700;background-color:white}
+.conthidemob {
+  display: none !important;
+}
+.bdr {
+  box-shadow: 2px 2px 3px 2px;
+  border: 0.5px solid gray;
+  text-shadow: 1px 1px #40e0d7;
+}
+a.nav-link {
+  margin-top: 10px;
+}
+.btsize {
+  box-shadow: 0 2px 9px 0 bisque, 0 8px 6px 0 black;
+}
+.btnmt {
+  margin-bottom: 10px !important;
+}
+}
